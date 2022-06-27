@@ -9,3 +9,5 @@ To do this we must have *an existing database* , *downloaded -sql driver* and *a
 To do this we must have *an existing database* , *downloaded -sql driver* and *all needed maven dependences*.
 <br><br>
 *Title in code: OUTPUT USER NAME FROM DATABASE*
+##
+*result.png -- result of two methods' work*
